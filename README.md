@@ -6,7 +6,7 @@
 
 <!-- Приветствие с гифкой -->
 <p align="center">
-  <img src="[https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif" width="600" alt="Приветствие"](https://instapik.ru/wp-content/uploads/2020/10/privet-10.jpg)/>
+  <img src="[[https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif" width="600" alt="Приветствие"](https://instapik.ru/wp-content/uploads/2020/10/privet-10.jpg)](https://instapik.ru/wp-content/uploads/2020/10/privet-10.jpg)/>
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Привет!+Я+Эсхик,+программист+и+творческая+личность!&color=FFA07Afont=Arial" alt="Типография"/>
 </p>
