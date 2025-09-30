@@ -53,8 +53,8 @@
     <h2>Контактная информация</h2>
     <p>Email: eskhik.darbinyan@mail.ru</p>
     <p>Телефон: +7 (905) 005-86-05</p>
-    <p>Instagram: <a href="https://github.com/eskhik_d" target="_blank">github.com/eskhik_d</a></p>
-    <p>Telegram: <a href="https://linkedin.com/in/eskhik_d" target="_blank">linkedin.com/in/eskhik_d</a></p>
+    <p>Instagram: <a href="https://eskhik_d" target="_blank">github.com/eskhik_d</a></p>
+    <p>Telegram: <a href="https://in/eskhik_d" target="_blank">/eskhik_d</a></p>
 </section>
 
 <section class="skills">
