@@ -18,7 +18,7 @@
 
 <section class="contact-info">
     <h2>Контактная информация</h2>
-    <p>Email: axmetzyanova.ilina@bk.ru</p>
+    <p>Email: eskhik.darbinyan@mail.ru</p>
     <p>Телефон: +7 (905) 005-86-05</p>
     <p>Instagram: <a href="https://eskhik_d" target="_blank">eskhik_d</a></p>
     <p>Telegram: <a href="https://eskhik_d" target="_blank">eskhik_d</a></p>
