@@ -19,9 +19,9 @@
 <section class="contact-info">
     <h2>Контактная информация</h2>
     <p>Email: axmetzyanova.ilina@bk.ru</p>
-    <p>Телефон: +7 (987) 133-74-15</p>
-    <p>GitHub: <a href="https://github.com/ваш_пользователь" target="_blank">github.com/ваш_пользователь</a></p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/ваш_профиль" target="_blank">linkedin.com/in/ваш_профиль</a></p>
+    <p>Телефон: +7 (905) 005-86-05</p>
+    <p>Instagram: <a href="https://eskhik_d" target="_blank">eskhik_d</a></p>
+    <p>Telegram: <a href="https://eskhik_d" target="_blank">eskhik_d</a></p>
 </section>
 
 <section class="skills">
@@ -46,8 +46,8 @@
 <section class="education">
     <h2>Образование</h2>
     <ul>
-        <li><strong> Колледж A</strong> — Прикладная информатика (2018 - 2022)</li>
-        <li><strong> Университет A</strong> — Прикладная информатика (2022 - 2026)</li>
+        <li><strong> Колледж </strong> — Прикладная информатика (2018 - 2022)</li>
+        <li><strong> Университет </strong> — Прикладная информатика (2022 - 2026)</li>
     </ul>
 </section>
 
