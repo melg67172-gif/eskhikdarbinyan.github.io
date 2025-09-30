@@ -51,10 +51,10 @@
 
 <section class="contact-info">
     <h2>Контактная информация</h2>
-    <p>Email: axmetzyanova.ilina@bk.ru</p>
-    <p>Телефон: +7 (987) 133-74-15</p>
-    <p>GitHub: <a href="https://github.com/ваш_пользователь" target="_blank">github.com/ваш_пользователь</a></p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/ваш_профиль" target="_blank">linkedin.com/in/ваш_профиль</a></p>
+    <p>Email: eskhik.darbinyan@mail.ru</p>
+    <p>Телефон: +7 (905) 005-86-05</p>
+    <p>Instagram: <a href="https://github.com/eskhik_d" target="_blank">github.com/eskhik_d</a></p>
+    <p>Telegram: <a href="https://linkedin.com/in/eskhik_d" target="_blank">linkedin.com/in/eskhik_d</a></p>
 </section>
 
 <section class="skills">
